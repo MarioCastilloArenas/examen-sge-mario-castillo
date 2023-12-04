@@ -1,2 +1,3 @@
-# Buena suerte
-Resolviendo los conflictos
+#Prueba de sGE
+mario castillo 	
+soy programador
