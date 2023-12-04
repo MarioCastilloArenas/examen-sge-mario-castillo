@@ -1,2 +1,3 @@
-# Buena suerte
-Resolviendo los conflictos
+# Examen de SGE
+mario castillo
+Tendré suerte
